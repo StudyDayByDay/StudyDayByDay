@@ -1,6 +1,6 @@
 ## Hi 我是LiKun 👋
 - 🏆 一名前端开发者
-- 🪜 技术栈：Vue生态、微信小程序、Node、Express、MongoDB
+- 🪜 技术栈：Vue生态、React淘系方案、微信小程序、Node、Express、MongoDB
 - 💬 wx: z643100r
 - 📬 邮箱: the_kun@foxmail.com
 - 📖 博客: <a href="https://juejin.cn/user/3526889034783400/posts" target="_blank">李仲轩</a>
