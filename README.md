@@ -12,7 +12,7 @@
 <code><img src="https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express"/></code>
 <code><img src="https://img.shields.io/badge/mongodb-yellowgreen?style=for-the-badge&logo=mongodb"/></code>
 
-## 📚 学习中：
+## 📚 持续研究中：
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/algorithm-slateblue?style=for-the-badge&logo=thealgorithms"/></code>
 <code><img src="https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=webpack"/></code>
