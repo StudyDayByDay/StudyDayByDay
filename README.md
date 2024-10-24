@@ -4,7 +4,7 @@
 - 💬 wx: z643100r
 - 📬 邮箱: the_kun@foxmail.com
 - 📖 博客: <a href="https://juejin.cn/user/3526889034783400/posts" target="_blank">李仲轩</a>
-- 🖥 个人项目: <a href="https://studydaybyday.github.io/LocalLibrary/" target="_blank">LocalLibrary</a>
+- 🖥 个人项目: <a href="https://github.com/StudyDayByDay/LocalLibrary" target="_blank">LocalLibrary</a>
 
 ## 🧰 技能点：
 <code><img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
