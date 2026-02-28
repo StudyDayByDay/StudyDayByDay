@@ -15,11 +15,11 @@
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express"/></code>
 <code><img src="https://img.shields.io/badge/mongodb-yellowgreen?style=for-the-badge&logo=mongodb"/></code>
-<code><img src="https://img.shields.io/badge/小程序-grey?style=for-the-badge&logo=minio"/></code>
+<code><img src="https://img.shields.io/badge/mini_program-grey?style=for-the-badge&logo=minio"/></code>
 
 ## 📚 持续进阶中：
+<code><img src="https://img.shields.io/badge/AI-slategrey?style=for-the-badge&logo=airbrake"/></code>
 <code><img src="https://img.shields.io/badge/algorithm-slateblue?style=for-the-badge&logo=thealgorithms"/></code>
-<code><img src="https://img.shields.io/badge/koa-slategrey?style=for-the-badge&logo=koa"/></code>
 <code><img src="https://img.shields.io/badge/English-yellow?style=for-the-badge"/></code>
 
 ## 📍 Dream
